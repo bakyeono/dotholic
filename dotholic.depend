@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1335022362 source:/home/bakyeono/dotholic/src/main.cpp
+	"libs.h"
+	"video.h"
+	"Color.h"
+	"Coord.h"
+
+1335010367 /home/bakyeono/dotholic/src/video.h
+	"libs.h"
+	"Coord.h"
+	"Color.h"
+
+1335009808 /home/bakyeono/dotholic/src/libs.h
+	<time.h>
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+	<sstream>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+
+1335008679 /home/bakyeono/dotholic/src/Coord.h
+
+1333205304 /home/bakyeono/dotholic/src/Color.h
+	"libs.h"
+
+1335019039 source:/home/bakyeono/dotholic/src/video.cpp
+	"video.h"
+
+1304962918 source:/home/bakyeono/dotholic/src/Timer.cpp
+	"Timer.h"
+
+1335022477 /home/bakyeono/dotholic/src/Timer.h
+	"libs.h"
+
+1335043594 source:d:\project\dotholic\src\main.cpp
+	"libs.h"
+	"video.h"
+	"Color.h"
+	"Coord.h"
+
+1335039791 d:\project\dotholic\src\libs.h
+	<time.h>
+	<vector>
+	<string>
+	<fstream>
+	<iostream>
+	<sstream>
+	<SDL/SDL.h>
+	<SDL/SDL_image.h>
+	<SDL/SDL_ttf.h>
+
+1335024737 d:\project\dotholic\src\video.h
+	"libs.h"
+	"Coord.h"
+	"Color.h"
+	"libs.h"
+
+1335008679 d:\project\dotholic\src\coord.h
+
+1333205304 d:\project\dotholic\src\color.h
+	"libs.h"
+
+1335046099 source:d:\project\dotholic\src\video.cpp
+	"video.h"
+
+1304962918 source:d:\project\dotholic\src\timer.cpp
+	"Timer.h"
+
+1335022477 d:\project\dotholic\src\timer.h
+	"libs.h"
+
